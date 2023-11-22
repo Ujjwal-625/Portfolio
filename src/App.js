@@ -4,6 +4,7 @@ import About from "./components/About/about";
 import Work from "./components/Works/work";
 import Contact from "./components/contact/contact";
 import Footer from "./components/Footer/footer.jsx"
+//trying to do some changes
 function App() {
   return (
     <div className="App">
